@@ -17,7 +17,7 @@
   position:absolute;
   z-index:0;
 }
-#u513_div {
+#u3521_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +37,7 @@
   font-size:20px;
   color:#FF3399;
 }
-#u513 {
+#u3521 {
   border-width:0px;
   position:absolute;
   left:118px;
@@ -51,19 +51,19 @@
   font-size:20px;
   color:#FF3399;
 }
-#u513 .text {
+#u3521 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u513_text {
+#u3521_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u514_div {
+#u3522_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -92,7 +92,7 @@
   color:#FF3399;
   line-height:18px;
 }
-#u514 {
+#u3522 {
   border-width:0px;
   position:absolute;
   left:120px;
@@ -107,19 +107,19 @@
   color:#FF3399;
   line-height:18px;
 }
-#u514 .text {
+#u3522 .text {
   position:absolute;
   align-self:flex-start;
   padding:4px 0px 4px 8px;
   box-sizing:border-box;
   width:100%;
 }
-#u514_text {
+#u3522_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u515_img {
+#u3523_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -127,7 +127,7 @@
   width:40px;
   height:40px;
 }
-#u515 {
+#u3523 {
   border-width:0px;
   position:absolute;
   left:68px;
@@ -138,19 +138,19 @@
   font-size:16px;
   color:#FF3399;
 }
-#u515 .text {
+#u3523 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u515_text {
+#u3523_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u516 {
+#u3524 {
   border-width:0px;
   position:absolute;
   left:88px;
@@ -162,7 +162,7 @@
   font-style:normal;
   color:#656565;
 }
-#u516_seg0 {
+#u3524_seg0 {
   border-width:0px;
   position:absolute;
   left:-5px;
@@ -170,7 +170,7 @@
   width:10px;
   height:15px;
 }
-#u516_seg1 {
+#u3524_seg1 {
   border-width:0px;
   position:absolute;
   left:-5px;
@@ -178,7 +178,7 @@
   width:60px;
   height:10px;
 }
-#u516_seg2 {
+#u3524_seg2 {
   border-width:0px;
   position:absolute;
   left:45px;
@@ -186,7 +186,7 @@
   width:10px;
   height:21px;
 }
-#u516_seg3 {
+#u3524_seg3 {
   border-width:0px;
   position:absolute;
   left:-9px;
@@ -194,7 +194,7 @@
   width:18px;
   height:18px;
 }
-#u516_text {
+#u3524_text {
   border-width:0px;
   position:absolute;
   left:-22px;
